@@ -20,7 +20,7 @@
     <input type="checkbox" name="fav" value="3">游泳<br>
 
     <input type="submit" value="登录"><br>
-
+    <input type="text" value="重置" >
 </form>
 </body>
 </html>
